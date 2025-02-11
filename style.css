@@ -13,9 +13,9 @@ body {
     margin-top: 1rem;
     padding-left: 20px;
     border: 2px solid red;
+    background-color: aliceblue;
+    background-image: url();
+    background-repeat: repeat;
+    background-size: cover;
 }
 
-.example img{
-    width: 25%;
-    height: auto;
-}
